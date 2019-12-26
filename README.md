@@ -4,7 +4,7 @@ This repository contains the code (in PyTorch) for "[Improved Techniques for Tra
 
 ## Introduction
 
-This paper presents three techniques to improve the training efficacy of adaptive deep networks from two aspects: (1) a Gradient Equilibrium algorithm to resolve the conflict of learning of different classifiers; (2) an Inline Subnet- work Collaboration approach and a One-for-all Knowledge Distillation algorithm to enhance the collaboration among classifiers. 
+This paper presents three techniques to improve the training efficacy of adaptive deep networks from two aspects: (1) a Gradient Equilibrium algorithm to resolve the conflict of learning of different classifiers; (2) an Inline Subnetwork Collaboration approach and a One-for-all Knowledge Distillation algorithm to enhance the collaboration among classifiers. 
 
 ### Method Overview.
 
